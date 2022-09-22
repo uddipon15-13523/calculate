@@ -13,6 +13,6 @@ else{
     console.log('you guys stay apart');
 }
 
-const number =2.4999;
+const number =12.96;
 const fullnumber =Math.round(number);
 console.log(fullnumber);
